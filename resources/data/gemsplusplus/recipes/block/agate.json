@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "gemsplusplus",
+  "ingredients": [
+    {
+      "item": "gemsplusplus:blockagate"
+    }
+  ],
+  "result": {
+    "item": "gemsplusplus:agate",
+    "count": 9
+  }
+}

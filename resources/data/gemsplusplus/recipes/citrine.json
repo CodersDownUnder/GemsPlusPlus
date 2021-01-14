@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "gemsplusplus:blockcitrine"
+        }
+    ],
+    "result": {
+        "item": "gemsplusplus:citrine",
+        "count": 9
+    }
+}

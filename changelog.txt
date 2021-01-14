@@ -1,0 +1,3 @@
+-Fixed Ore Gen so the ore features are register
+-Rewrote the mod from the ground up to use the deferred register instead of the regular registry
+-tweaked and changed armor and tool stats
